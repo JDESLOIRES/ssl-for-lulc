@@ -1,0 +1,12 @@
+eo-learn-core
+munch
+tensorflow>=2.1.0
+tensorflow-addons
+numpy
+marshmallow
+matplotlib
+h5py
+pandas
+scipy
+matplotlib
+seaborn

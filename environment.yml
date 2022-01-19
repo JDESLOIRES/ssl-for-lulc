@@ -1,0 +1,16 @@
+name: ssl-lulc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - pip
+  - pip : 
+    - folium
+    - eo-learn>=0.10.1
+    - sentinelhub>=3.4.2
+    - -r requirements.txt
+  - earthpy>=0.9.2
+  - cartopy>=0.17.0
+  - shapely<1.8.0
+
+
